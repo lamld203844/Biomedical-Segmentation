@@ -16,4 +16,4 @@ Note:
 2. The image in the mask folder may look completely black due to the low label value (pixel value 7-SP, 8-Head).
 3. Frame_label frame label 3-None, 4-OnlySP, 5-OnlyHead, 6-SP+Head in framelabel.csv.
 
-78Video, 6224frame image, 51patients
+**78Video, (6254 image, 6247 mask, 6224 maske enhance)(frame), 51patients**
