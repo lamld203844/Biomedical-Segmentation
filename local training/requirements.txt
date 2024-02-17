@@ -1,0 +1,15 @@
+torch
+torchvision
+tensorboard
+lightning
+torchmetrics
+segmentation-models-pytorch
+
+PIL
+cv2
+
+collections 
+pandas
+numpy
+matplotlib
+sklearn
