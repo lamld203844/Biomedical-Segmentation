@@ -1,17 +1,14 @@
 kaggle
-torch
-torchvision
-tensorboard
 lightning
 torchmetrics
 segmentation-models-pytorch
 
-PIL
-cv2
+opencv-python
+pillow
 
-collections 
+matplotlib
 pandas
 numpy
 matplotlib
-sklearn
+scikit-learn
 watermark
